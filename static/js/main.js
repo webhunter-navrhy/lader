@@ -32,5 +32,5 @@
 
 // Dopredu načíta aj rozšírenú latinku (ě š č ř ž ů), aby sa diakritika nikdy nekreslila náhradným písmom.
 if (document.fonts && document.fonts.load) {
-  ['400 1em "Barlow"', '600 1em "Barlow"', '700 1em "Barlow Condensed"'].forEach(function (f) { document.fonts.load(f, 'ěščřžýáíéůúĚŠČŘŽ'); });
+  ['400 1em "Barlow"', '600 1em "Barlow"', '600 1em "Barlow Condensed"', '700 1em "Barlow Condensed"'].forEach(function (f) { document.fonts.load(f, 'ěščřžýáíéůúĚŠČŘŽ'); });
 }
