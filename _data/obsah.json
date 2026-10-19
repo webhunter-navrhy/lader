@@ -1,0 +1,140 @@
+{
+  "vyrobcovia": [
+    "GROHE",
+    "HANSA",
+    "HANSGROHE",
+    "HERZ",
+    "IDEAL STANDARD",
+    "KLUDI",
+    "ORAS",
+    "MOFEM",
+    "RAVAK",
+    "JIKA",
+    "ROCA",
+    "LAUFEN",
+    "RAF",
+    "RAV SLEZAK"
+  ],
+  "pouzitie": [
+    {
+      "nazev": "Vodovodné nástenky 100 a 150 mm",
+      "popis": "3D vodováhu upevníte k nástenkám, libelou č. 1 ich vyvážite do vodorovnej polohy a libelou č. 2 do zvislej. Závitovými tyčkami nastavíte hĺbku. Vývody budú rovnobežné so stenou a upevníte ich sadrou.",
+      "img": "nastenky.jpg",
+      "alt": "Dve vodovodné nástenky, červená a modrá, zafixované 3D vodováhou v murive"
+    },
+    {
+      "nazev": "Podomietkové batérie, typy A, B, C",
+      "popis": "Podomietková batéria sa osadí do montážneho otvoru s inštalačnou platňou pre daný typ. Presná poloha sa kontroluje až do zatuhnutia sadry, a následná montáž vrchných častí je rýchla a presná.",
+      "img": "podomietkova.jpg",
+      "alt": "Podomietková batéria zafixovaná v murive s inštalačnou platňou a vodovodnými nástenkami"
+    },
+    {
+      "nazev": "Samostatná nástenka, napríklad hlavová sprcha",
+      "popis": "Pri ramenách dlhých 30 až 40 cm rozhoduje každý milimeter. Otočné ramená opreté o stenu držia nástenku v požadovanej hĺbke a kolmo na stenu.",
+      "img": "vodovaha-b.jpg",
+      "alt": "Samostatná vodovodná nástenka uchytená 3D vodováhou s libelou"
+    },
+    {
+      "nazev": "Pod umývadlom a v nepravouhlom rohu",
+      "popis": "Inštalačné platne 12/80, 12/100 a 12/150 vymedzia presnú polohu odtoku pod umývadlom. Keď roh sprchového kúta nie je v pravom uhle, požadovaný uhol nastavíte závitovými tyčkami.",
+      "img": "tehla.jpg",
+      "alt": "Vodovodné vývody osadené v tehlovej stene"
+    }
+  ],
+  "platne": [
+    {
+      "vyrobca": "Grohe",
+      "typy": "Rapido E a T, 32635, 33769, 32706, 33963, SC 26264001, SB 26484000, platne č. 1, 3, 15"
+    },
+    {
+      "vyrobca": "Hansgrohe",
+      "typy": "iBox, 13622180, 10303180, 13620180, 31741180, Rain Select, Axor One, platne č. 4, 13, 24"
+    },
+    {
+      "vyrobca": "Kludi",
+      "typy": "88011, 38243 (2-otvorová), 38999 (bidetka), platne č. 1, 2"
+    },
+    {
+      "vyrobca": "Ideal Standard",
+      "typy": "A1000 NU, A2363 NU, A5948 NU, montážna lišta A1503 NU, platne č. 1, 14"
+    },
+    {
+      "vyrobca": "Herz",
+      "typy": "UH00367, UH00368, UH00080, sólo alebo s krytom, platňa č. 7"
+    },
+    {
+      "vyrobca": "Jika",
+      "typy": "Cubito, Lyra, Mio, Tigo, Pure, Cube, platne č. 21 a 21 II"
+    },
+    {
+      "vyrobca": "Hansa",
+      "typy": "Bluebox, Vario, Matrix, platňa č. 22"
+    },
+    {
+      "vyrobca": "Novaservis",
+      "typy": "Metalia, Titania, Nobless, 36050, 40050, 56050, 96050, platne č. 8, 9, 10"
+    },
+    {
+      "vyrobca": "Laufen a Roca",
+      "typy": "platňa č. 17 pre 2 typy podomietkových batérií"
+    },
+    {
+      "vyrobca": "Ďalšie",
+      "typy": "Ravak (č. 11), Slovarm (č. 6), Schell (č. 25), Rubineta (č. 26), Lotosan (č. 27), Aquaristo Style (č. 28)"
+    }
+  ],
+  "dokumenty": [
+    {
+      "n": "Návod na obsluhu (SK)",
+      "m": "PDF, 2 MB",
+      "u": "https://www.lader.sk/wp/wp-content/uploads/2023/01/20230118_SK_Vodovaha_Navod_na_obsluhu.pdf"
+    },
+    {
+      "n": "Návod na obsluhu (EN)",
+      "m": "PDF, 2 MB",
+      "u": "https://www.lader.sk/wp/wp-content/uploads/2020/08/20200824_EN_Spirit-Level_Operating_manual.pdf"
+    },
+    {
+      "n": "Návod na obsluhu (DE)",
+      "m": "PDF, 2 MB",
+      "u": "https://www.lader.sk/wp/wp-content/uploads/2020/08/20200824_DE_Wasserwaage_Bedienungsanleitung.pdf"
+    },
+    {
+      "n": "Katalóg (SK)",
+      "m": "PDF, 4 MB",
+      "u": "https://www.lader.sk/wp/wp-content/uploads/2022/04/Katalog-A4-D02_Nahlad.pdf"
+    },
+    {
+      "n": "Tabuľka príslušenstva (SK)",
+      "m": "PDF, 140 kB",
+      "u": "https://www.lader.sk/wp/wp-content/uploads/2022/12/20221206_TAB_Prislusenstva_SK.pdf"
+    },
+    {
+      "n": "Montážny list",
+      "m": "PDF, 110 kB",
+      "u": "https://www.lader.sk/wp/wp-content/uploads/2021/07/Montazny_list_20210707_v01.pdf"
+    },
+    {
+      "n": "Tabuľka hĺbky MIN-MAX",
+      "m": "PDF, 50 kB",
+      "u": "https://www.lader.sk/wp/wp-content/uploads/2015/09/Tabulka_hlbka_MIN-MAX_2015.pdf"
+    }
+  ],
+  "partneri": [
+    {
+      "n": "Empiria",
+      "t": "predajňa a požičovňa",
+      "u": "http://empiria.sk"
+    },
+    {
+      "n": "TMS-Montys",
+      "t": "predajňa",
+      "u": "http://www.tms.sk"
+    },
+    {
+      "n": "Požičovňa náradia BENS",
+      "t": "požičovňa",
+      "u": "http://www.benssro.sk"
+    }
+  ]
+}

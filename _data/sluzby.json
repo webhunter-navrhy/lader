@@ -1,0 +1,20 @@
+[
+  {
+    "cislo": "A",
+    "nazev": "Vodorovná poloha",
+    "os": "os x",
+    "popis": "Libela č. 1 vyváži nástenky alebo batériu do vodorovnej polohy."
+  },
+  {
+    "cislo": "B",
+    "nazev": "Zvislá poloha",
+    "os": "os z",
+    "popis": "Libela č. 2 drží zvislú polohu, kým sadra nezatuhne."
+  },
+  {
+    "cislo": "C",
+    "nazev": "Hĺbka",
+    "os": "os y",
+    "popis": "Dorazy na závitových tyčkách nastavia predo-zadnú hĺbku: do steny, zarovno alebo pred stenu."
+  }
+]
